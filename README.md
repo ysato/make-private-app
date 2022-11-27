@@ -2,6 +2,8 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
 
+<a href="https://stats.uptimerobot.com/AgLmRUZoEP" rel="nofollow"><img alt="Uptime Robot status" src="https://img.shields.io/uptimerobot/status/m793136036-fe40d9eebcd3ab412cd6910e"></a>
+
 ## Setup
 
 ```sh
